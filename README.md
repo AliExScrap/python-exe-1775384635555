@@ -1,2 +1,5 @@
-# python-exe-1775384635555
-Python to EXE - AionMind_Fixed
+# AionMind_Fixed
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
